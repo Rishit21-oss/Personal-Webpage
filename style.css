@@ -71,3 +71,12 @@ p{
     width: 70px;
     margin: 8px auto;
 }
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color: fuchsia;
+}
